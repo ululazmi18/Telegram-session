@@ -1,5 +1,3 @@
----
-
 ### **1. Python**
 #### **a. Telethon**
 - Library: [Telethon](https://github.com/LonamiWebs/Telethon)
@@ -91,5 +89,3 @@
 - Library: [Kotlogram](https://github.com/badoualy/kotlogram)
 - File session: Custom binary format.
 - Berbasis Kotlin, cocok untuk integrasi Telegram.
-
----
